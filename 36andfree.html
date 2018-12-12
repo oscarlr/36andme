@@ -1,0 +1,41 @@
+<html>
+  <h1>What's your status?</h1>
+  <h3>Notes</h3>
+  <ul>
+    <li>Upload files will be temporary placed in our servers. We promise to delete files.</li>
+  </ul>
+  <h3>Disclaimer</h3>
+  <ol>
+    <li>This is not a diagnostic tool. Please consult with doctor if needed.</li>
+    <li>Limited to SNPs in ClinVar labelled as pathogenic/likely pathogenic as of Dec 2018</li>
+    <li>Limited to SNPs to 36 genes</li>
+    <li>Some SNPs have confliciting interpretations</li>
+  </ol>
+  <h2>Carrier check</h2>
+  <body>    
+    <form action="upload.php" method="post" enctype="multipart/form-data">
+      Upload VCF:
+      <input type="file" name="fileToUpload" id="fileToUpload">
+      <input type="submit" value="Upload VCF" name="submit">
+    </form>       
+  </body>
+  <h2>Trait check</h2>
+  <body>    
+    <form action="upload_traits.php" method="post" enctype="multipart/form-data">
+      Upload VCF:
+      <input type="file" name="fileToUpload" id="fileToUpload">
+      <input type="submit" value="Upload VCF" name="submit">
+    </form>       
+  </body>
+  <h2>Carrier and trait check</h2>
+  <body>    
+    <form action="upload_carrier_traits.php" method="post" enctype="multipart/form-data">
+      Upload VCF:
+      <input type="file" name="fileToUpload" id="fileToUpload">
+      <input type="submit" value="Upload VCF" name="submit">
+    </form>       
+    <br>
+    <br>
+    <br>
+    <p> By: Arpit Dave, Ayuko Iverson, Elisabeth Schott Ferguson, Kalisi Logan, Oscar Rodriguez </p>
+</html>
