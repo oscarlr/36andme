@@ -1,0 +1,25 @@
+base	gene_name	disease	chrom	pos
+A	OCA2	A:A and A:G are brown	15	28230318
+C	MC1R	G:G means redhead not possible. C is risk allele	16	89986546
+G	OPRM1	A:A has least pain when withdrawing. G is risk allele	6	154360797
+C	ACTN3	T;T impaired muscle performance	11	66328095
+C	TAS2R38	C allele taste bitter	7	141673345
+C	LCT	C is risk allele for intolerance. T:T can drink milk	2	136608646
+A	PTPRD	A is risk allele for having more movement during sleep	9	9261737
+A	CYP1A1	A is risk for liking it more	15	75019449
+A	OXTR	A is risk allele for lack of empathy	3	8804371
+A	OR2M7	A allele increases smelling of asparagus in urine	1	248496863
+G	unknown	G allele increases chance of freckles and sun sensitivity	20	32738612
+A	TYR	A is increases risk for skin cancer	11	89017961
+T	SLC45A2	T represents darker eye, skin, hair color	5	33963870
+C	SLC45A2	C allele represents non-european. If europeoan likely to have darker hair	5	33951693
+T	TPCN2	Homozygous T represents blonde hair color	11	68846399
+C	SORCS1	Better memory	10	108792942
+G	SORCS1	Better memory	10	108793788
+G	SORCS1	Better memory	10	108795375
+G	COMT	G is for Warrior. A is for worrier.	22	19951271
+C	DAO	C is for Anxiety	12	109272051
+T	MC1R	T represents increased ageing look	16	89985844
+T	MC1R	T represents increased ageing look	16	89986117
+T	MC1R	T represents increased ageing look	16	89986144
+C	MC1R	C represents increased ageing look	16	89986546

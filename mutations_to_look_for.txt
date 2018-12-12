@@ -1,0 +1,1673 @@
+base	gene_name	disease	chrom	pos	link
+C	IVD	Isovaleric Acidemia	15	40698029	https://ghr.nlm.nih.gov/gene/IVD#conditions
+C	IVD	Isovaleric Acidemia	15	40708555	https://ghr.nlm.nih.gov/gene/IVD#conditions
+A	IVD	Isovaleric Acidemia	15	40698173	https://ghr.nlm.nih.gov/gene/IVD#conditions
+T	IVD	Isovaleric Acidemia	15	40698020	https://ghr.nlm.nih.gov/gene/IVD#conditions
+A	IVD	Isovaleric Acidemia	15	40702826	https://ghr.nlm.nih.gov/gene/IVD#conditions
+C	IVD	Isovaleric Acidemia	15	40698021	https://ghr.nlm.nih.gov/gene/IVD#conditions
+T	IVD	Isovaleric Acidemia	15	40702889	https://ghr.nlm.nih.gov/gene/IVD#conditions
+A	IVD	Isovaleric Acidemia	15	40702898	https://ghr.nlm.nih.gov/gene/IVD#conditions
+C	IVD	Isovaleric Acidemia	15	40702998	https://ghr.nlm.nih.gov/gene/IVD#conditions
+A	IVD	Isovaleric Acidemia	15	40703468	https://ghr.nlm.nih.gov/gene/IVD#conditions
+A	IVD	Isovaleric Acidemia	15	40698072	https://ghr.nlm.nih.gov/gene/IVD#conditions
+A	IVD	Isovaleric Acidemia	15	40703553	https://ghr.nlm.nih.gov/gene/IVD#conditions
+A	IVD	Isovaleric Acidemia	15	40703753	https://ghr.nlm.nih.gov/gene/IVD#conditions
+A	IVD	Isovaleric Acidemia	15	40703784	https://ghr.nlm.nih.gov/gene/IVD#conditions
+T	IVD	Isovaleric Acidemia	15	40703799	https://ghr.nlm.nih.gov/gene/IVD#conditions
+A	IVD	Isovaleric Acidemia	15	40707087	https://ghr.nlm.nih.gov/gene/IVD#conditions
+A	IVD	Isovaleric Acidemia	15	40707182	https://ghr.nlm.nih.gov/gene/IVD#conditions
+T	IVD	Isovaleric Acidemia	15	40707653	https://ghr.nlm.nih.gov/gene/IVD#conditions
+T	IVD	Isovaleric Acidemia	15	40708276	https://ghr.nlm.nih.gov/gene/IVD#conditions
+G	IVD	Isovaleric Acidemia	15	40708275	https://ghr.nlm.nih.gov/gene/IVD#conditions
+T	IVD	Isovaleric Acidemia	15	40708531	https://ghr.nlm.nih.gov/gene/IVD#conditions
+T	IVD	Isovaleric Acidemia	15	40710364	https://ghr.nlm.nih.gov/gene/IVD#conditions
+T	IVD	Isovaleric Acidemia	15	40710373	https://ghr.nlm.nih.gov/gene/IVD#conditions
+G	IVD	Isovaleric Acidemia	15	40710389	https://ghr.nlm.nih.gov/gene/IVD#conditions
+A	IVD	Isovaleric Acidemia	15	40699841	https://ghr.nlm.nih.gov/gene/IVD#conditions
+C	IVD	Isovaleric Acidemia	15	40699841	https://ghr.nlm.nih.gov/gene/IVD#conditions
+T	IVD	Isovaleric Acidemia	15	40699924	https://ghr.nlm.nih.gov/gene/IVD#conditions
+G	IVD	Isovaleric Acidemia	15	40703457	https://ghr.nlm.nih.gov/gene/IVD#conditions
+A	IVD	Isovaleric Acidemia	15	40705287	https://ghr.nlm.nih.gov/gene/IVD#conditions
+T	IVD	Isovaleric Acidemia	15	40707611	https://ghr.nlm.nih.gov/gene/IVD#conditions
+T	MCOLN1	Mucolipidosis Type IV	19	7593569	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+A	MCOLN1	Mucolipidosis Type IV	19	7591493	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+T	MCOLN1	Mucolipidosis Type IV	19	7591391	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+G	MCOLN1	Mucolipidosis Type IV	19	7591645	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+C	MCOLN1	Mucolipidosis Type IV	19	7591814	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+G	MCOLN1	Mucolipidosis Type IV	19	7593985	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+G	MCOLN1	Mucolipidosis Type IV	19	7589845	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+A	MCOLN1	Mucolipidosis Type IV	19	7587668	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+G	MCOLN1	Mucolipidosis Type IV	19	7592748	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+A	MCOLN1	Mucolipidosis Type IV	19	7593590	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+A	MCOLN1	Mucolipidosis Type IV	19	7593986	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+T	MCOLN1	Mucolipidosis Type IV	19	7591755	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+T	MCOLN1	Mucolipidosis Type IV	19	7595259	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+C	MCOLN1	Mucolipidosis Type IV	19	7593986	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+C	MCOLN1	Mucolipidosis Type IV	19	7593858	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+A	MCOLN1	Mucolipidosis Type IV	19	7594575	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+T	MCOLN1	Mucolipidosis Type IV	19	7593806	https://www.ncbi.nlm.nih.gov/books/NBK1214/
+G	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45966005	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+T	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45973163	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+T	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45973899	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+C	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45966006	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+G	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45966006	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+G	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45973922	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+T	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45973938	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+C	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45973954	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+T	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45973998	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+T	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45974001	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+A	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45966007	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+A	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45974027	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+T	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45974034	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+A	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45974478	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+C	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45974478	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+T	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45974495	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+A	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45974509	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+T	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45974519	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+A	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45974520	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+A	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45974603	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+A	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45974646	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+A	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45974647	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+A	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45974653	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+G	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45974653	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+A	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45974704	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+T	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45974726	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+A	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45966076	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+G	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45966084	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+G	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45966087	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+A	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45973027	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+A	MMACHC	Methylmalonic Acidemia with Homocystinuria	1	45973036	https://ghr.nlm.nih.gov/condition/methylmalonic-acidemia-with-homocystinuria
+T	NEB	Nemaline Myopathy 2	2	152417726	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152394412	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152477432	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152474966	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152474788	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152473895	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152473876	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152472515	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152563394	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152554164	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152468905	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152554154	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152468878	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152467381	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152467361	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152467275	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152467029	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152553973	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152463183	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152553862	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152553768	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152457040	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152456988	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152456955	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152450715	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152553661	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152553150	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152552198	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152438008	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152435936	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152552091	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152552090	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152426763	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152423994	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152422229	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152421557	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152420137	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152419208	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152419151	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152419124	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152548877	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152418639	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152417214	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152411468	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152409185	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152404820	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152404253	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152402513	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152402465	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152402400	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152397984	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152397209	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152396963	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152392204	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152390825	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152387507	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152384101	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152548377	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152547341	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152382546	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152381779	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152381131	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152376273	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152376170	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152375584	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152374937	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152374831	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152374830	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152372971	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152547239	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152370092	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152364518	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152364518	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152361990	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152359864	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152359862	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152357937	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152355905	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152355905	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152544805	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152544805	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152544248	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152355813	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152355811	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152354772	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152354228	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152354220	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152354139	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152353543	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152353539	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152353454	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152352883	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152352822	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152350383	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152350373	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152350324	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152349961	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152348611	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152348611	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152348611	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152348291	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152347033	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152347000	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152346885	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152346553	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152346549	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152346483	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152541468	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152539199	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152584203	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152539175	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152537343	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152582075	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152536537	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152536234	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152536234	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152536234	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152534389	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152589634	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152586171	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152586171	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152534077	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152531822	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152531800	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152531100	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152529195	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152527745	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152527536	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152524316	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152522917	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152522603	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152581370	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152521123	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152521102	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152520251	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152515578	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152514605	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152514606	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152514606	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152580001	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152580002	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152514496	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152514495	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152512777	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152510615	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152507378	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152507086	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152502750	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152500641	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152586128	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152567054	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152499278	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152497181	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152496373	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152496370	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152495792	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152492797	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152492740	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152490336	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152566947	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152490236	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152490167	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152490167	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152487847	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152487835	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152487816	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152487334	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152487335	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152486161	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152486162	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152486052	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152553250	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152359956	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152544804	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152534389	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152534078	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152531099	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152530990	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152581466	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+C	NEB	Nemaline Myopathy 2	2	152521123	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+G	NEB	Nemaline Myopathy 2	2	152520375	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+A	NEB	Nemaline Myopathy 2	2	152506894	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	NEB	Nemaline Myopathy 2	2	152499786	https://www.ncbi.nlm.nih.gov/books/NBK1288/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246714	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103238151	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103238146	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103238146	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103238137	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103238134	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103238130	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103238113	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103237568	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103237560	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103237555	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103237555	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103237526	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103237509	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103237484	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103237476	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103237466	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103237461	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103237461	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103237454	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103306620	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103237443	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103237439	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103237426	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103237407	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103237423	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103237423	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103237422	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103237424	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103237424	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103234294	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103234285	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103234274	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103306616	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103234271	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103234270	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103234255	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103234252	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103234250	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103234244	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103234241	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103234237	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103306610	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103234211	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103234192	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103234177	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103234177	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103234176	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103234174	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103234172	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103232972	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103306601	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103306594	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103306572	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103306568	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103306564	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103306564	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103288709	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103288698	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103288696	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103288671	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103310908	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103288661	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103288639	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103288638	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103288615	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103288604	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103288582	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103310907	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103288554	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103288545	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103288534	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103271326	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103271296	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103271295	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103271281	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103271247	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103271242	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103271241	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103271239	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103271239	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103271237	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103271235	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103260442	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103260443	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103260446	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103260419	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103260419	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103260411	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103260410	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103260401	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103260393	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103260385	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103260383	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103260377	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103260375	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103249112	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103249109	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103249100	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103249094	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103249093	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103249091	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103249091	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103249087	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103249085	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103249059	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103249057	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103249051	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103249039	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103310851	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103310848	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103310844	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103249009	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103249008	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103249002	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103249002	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103248989	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103248988	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103248985	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103248982	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103248972	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103248967	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103248947	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103248932	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103248931	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103248929	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103248926	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103246713	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246713	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246711	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246708	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103246707	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103246702	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103246701	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103246701	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103246698	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103246696	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246695	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246690	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103246681	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246681	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103246680	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103246678	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103246671	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246665	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103246660	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246659	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246654	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103246653	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103246653	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103246629	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103246626	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246621	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246617	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246612	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103246611	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246611	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103246609	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103246606	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103246605	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103246602	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246602	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103246600	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103246597	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103246596	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246594	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103246592	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103246590	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103246589	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103246588	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103246593	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103245533	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103245530	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103245512	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103245487	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103245481	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103245479	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103245476	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103245467	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103245464	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103245465	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103240731	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103240736	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103240726	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103240716	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103240716	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103240713	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103240710	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103240708	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103240702	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103240701	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+T	PAH	Phenylalanine Hydroxylase Deficiency	12	103240687	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103240682	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103238205	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+G	PAH	Phenylalanine Hydroxylase Deficiency	12	103238204	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103238202	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	PAH	Phenylalanine Hydroxylase Deficiency	12	103238201	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+C	PAH	Phenylalanine Hydroxylase Deficiency	12	103238187	https://www.ncbi.nlm.nih.gov/books/NBK1504/
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17414671	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17415842	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17415881	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17415908	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17415926	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17416719	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+G	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17416754	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+G	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17416824	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17417158	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17417206	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17417399	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+G	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17417423	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17417440	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17417462	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+C	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17417465	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17418462	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17418602	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17418861	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17419891	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17424218	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17424265	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17426071	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17426072	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17428490	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17428605	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17428964	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17429962	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+C	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17430065	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17434263	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17448595	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17448702	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17452386	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+G	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17452526	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17464266	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+T	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17483210	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17483269	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+G	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17485001	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17485004	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17491729	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17496502	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+A	ABCC8	Persistent hyperinsulinemic hypoglycemia of infancy	11	17498262	https://ghr.nlm.nih.gov/condition/congenital-hyperinsulinism
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76190473	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76190475	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76190504	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76194174	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76198337	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76198344	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76198367	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76198387	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76198409	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76198427	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76198428	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76198539	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76198554	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76198571	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76198574	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76198574	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76198609	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76199211	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76199212	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76199246	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76199273	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76199288	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76199314	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76199314	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76200471	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76200473	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76200483	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76200531	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76200535	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76200535	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76200552	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76205663	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76205664	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76205699	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76205754	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76205776	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76205779	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76205796	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76205797	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76205800	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76211473	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76211500	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76211507	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76211508	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76211508	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76211574	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76211589	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76211600	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76211601	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76215102	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76215103	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76215112	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76215129	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76215134	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76215137	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76215152	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76215192	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76215194	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76215238	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76215245	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76216134	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76216167	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76216199	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76216214	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76226801	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76226805	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76226810	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76226811	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76226820	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76226838	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76226846	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76226846	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76226873	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76226906	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76226913	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76226916	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76227011	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76227050	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76227051	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76227056	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76228375	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76228376	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+G	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76228389	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+C	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76228429	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+A	ACADM	Medium-chain acyl-coenzyme A dehydrogenase deficiency	1	76228439	https://ghr.nlm.nih.gov/condition/medium-chain-acyl-coa-dehydrogenase-deficiency
+T	ASPA	Canavan Disease	17	3379302	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+C	ASPA	Canavan Disease	17	3379349	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+C	ASPA	Canavan Disease	17	3379455	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+C	ASPA	Canavan Disease	17	3379500	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3379532	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+C	ASPA	Canavan Disease	17	3379542	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3379623	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+C	ASPA	Canavan Disease	17	3379641	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3379665	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3379690	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3384895	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3384896	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3384896	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+C	ASPA	Canavan Disease	17	3384905	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3385000	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3385028	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+G	ASPA	Canavan Disease	17	3385087	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3385087	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+C	ASPA	Canavan Disease	17	3385088	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3385092	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+G	ASPA	Canavan Disease	17	3386791	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3386863	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+C	ASPA	Canavan Disease	17	3392527	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3392541	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3392543	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3392544	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3392550	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+C	ASPA	Canavan Disease	17	3392606	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3392633	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3392637	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3397649	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3397702	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3397702	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+G	ASPA	Canavan Disease	17	3397725	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+G	ASPA	Canavan Disease	17	3397740	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+G	ASPA	Canavan Disease	17	3402183	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3402184	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3402186	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+G	ASPA	Canavan Disease	17	3402210	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3402247	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3402260	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3402271	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3402278	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3402279	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+C	ASPA	Canavan Disease	17	3402294	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3402299	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3402307	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3402345	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3402346	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3402354	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3402367	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+G	ASPA	Canavan Disease	17	3402375	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASPA	Canavan Disease	17	3402409	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+A	ASPA	Canavan Disease	17	3402628	https://ghr.nlm.nih.gov/condition/canavan-disease#inheritance
+T	ASS1	Citrullinemia type I	9	133327612	https://ghr.nlm.nih.gov/condition/citrullinemia
+G	ASS1	Citrullinemia type I	9	133327616	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133327618	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133327655	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133327668	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133333787	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133333869	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133333875	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133333904	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133333936	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133333962	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133339504	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133339546	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133339555	https://ghr.nlm.nih.gov/condition/citrullinemia
+G	ASS1	Citrullinemia type I	9	133342110	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133342161	https://ghr.nlm.nih.gov/condition/citrullinemia
+G	ASS1	Citrullinemia type I	9	133346219	https://ghr.nlm.nih.gov/condition/citrullinemia
+C	ASS1	Citrullinemia type I	9	133346260	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133346264	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133346292	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133346871	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133346876	https://ghr.nlm.nih.gov/condition/citrullinemia
+C	ASS1	Citrullinemia type I	9	133346889	https://ghr.nlm.nih.gov/condition/citrullinemia
+C	ASS1	Citrullinemia type I	9	133355103	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133355188	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133355236	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133355785	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133355791	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133355792	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133355803	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133355812	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133355821	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133355833	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133355834	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133355837	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133364728	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133364791	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133364800	https://ghr.nlm.nih.gov/condition/citrullinemia
+C	ASS1	Citrullinemia type I	9	133364809	https://ghr.nlm.nih.gov/condition/citrullinemia
+G	ASS1	Citrullinemia type I	9	133364810	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133364812	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133364851	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133364852	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133364856	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133370253	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133370313	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133370352	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133370368	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133370370	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133370371	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133370411	https://ghr.nlm.nih.gov/condition/citrullinemia
+T	ASS1	Citrullinemia type I	9	133374902	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133374932	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	ASS1	Citrullinemia type I	9	133374937	https://ghr.nlm.nih.gov/condition/citrullinemia
+C	ASS1	Citrullinemia type I	9	133376362	https://ghr.nlm.nih.gov/condition/citrullinemia
+A	BCKDHA	Maple syrup urine disease	19	41903735	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+C	BCKDHA	Maple syrup urine disease	19	41903845	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple syrup urine disease	19	41916560	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple syrup urine disease	19	41916570	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple syrup urine disease	19	41916722	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple syrup urine disease	19	41916730	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple syrup urine disease	19	41916909	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple syrup urine disease	19	41920045	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+C	BCKDHA	Maple syrup urine disease	19	41920048	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple syrup urine disease	19	41920054	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple syrup urine disease	19	41925187	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+C	BCKDHA	Maple syrup urine disease	19	41928068	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple syrup urine disease	19	41928081	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple syrup urine disease	19	41928179	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple syrup urine disease	19	41928215	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHA	Maple syrup urine disease	19	41928258	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+C	BCKDHA	Maple syrup urine disease	19	41928266	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+C	BCKDHA	Maple syrup urine disease	19	41928275	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple syrup urine disease	19	41928276	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHA	Maple syrup urine disease	19	41928532	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple syrup urine disease	19	41928539	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple syrup urine disease	19	41928548	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+C	BCKDHA	Maple syrup urine disease	19	41928585	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHA	Maple syrup urine disease	19	41928609	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple syrup urine disease	19	41928620	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple syrup urine disease	19	41928623	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple syrup urine disease	19	41928644	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple syrup urine disease	19	41928659	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple syrup urine disease	19	41928943	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple syrup urine disease	19	41928944	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple syrup urine disease	19	41929026	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHA	Maple syrup urine disease	19	41930341	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple syrup urine disease	19	41930367	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple syrup urine disease	19	41930373	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple syrup urine disease	19	41930409	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple syrup urine disease	19	41930477	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple syrup urine disease	19	41930487	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple syrup urine disease	19	41930489	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80816411	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+C	BCKDHB	Maple syrup urine disease	6	80816412	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80816413	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80816579	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80816591	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80816607	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+C	BCKDHB	Maple syrup urine disease	6	80816607	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHB	Maple syrup urine disease	6	80837262	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHB	Maple syrup urine disease	6	80838876	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80838893	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHB	Maple syrup urine disease	6	80838896	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80838905	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+C	BCKDHB	Maple syrup urine disease	6	80838908	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHB	Maple syrup urine disease	6	80838945	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHB	Maple syrup urine disease	6	80838948	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80877394	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80877416	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80877452	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80877454	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80877461	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHB	Maple syrup urine disease	6	80878593	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80878601	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80878602	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80878617	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80878622	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHB	Maple syrup urine disease	6	80878622	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80878622	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80878623	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80878640	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80878661	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80878662	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+C	BCKDHB	Maple syrup urine disease	6	80878662	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80878668	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80878674	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80878678	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80878748	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+C	BCKDHB	Maple syrup urine disease	6	80878748	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80878748	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80881002	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80881108	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80910656	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+C	BCKDHB	Maple syrup urine disease	6	80910660	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80910707	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80910740	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80910749	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80910749	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHB	Maple syrup urine disease	6	80910750	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+C	BCKDHB	Maple syrup urine disease	6	80912818	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80912831	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHB	Maple syrup urine disease	6	80912880	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHB	Maple syrup urine disease	6	80982850	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80982851	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHB	Maple syrup urine disease	6	80982864	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80982870	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHB	Maple syrup urine disease	6	80982874	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80982888	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80982895	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80982906	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	80982916	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	80982922	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	81053388	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHB	Maple syrup urine disease	6	81053456	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHB	Maple syrup urine disease	6	81053491	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+C	BLM	Bloom syndrome	15	91290623	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+C	BLM	Bloom syndrome	15	91290624	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+A	BLM	Bloom syndrome	15	91290721	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91290721	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+C	BLM	Bloom syndrome	15	91292596	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91292703	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+A	BLM	Bloom syndrome	15	91292703	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91295052	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+A	BLM	Bloom syndrome	15	91298169	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+A	BLM	Bloom syndrome	15	91303376	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+A	BLM	Bloom syndrome	15	91303510	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+C	BLM	Bloom syndrome	15	91303822	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+A	BLM	Bloom syndrome	15	91303887	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+G	BLM	Bloom syndrome	15	91303904	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+G	BLM	Bloom syndrome	15	91303961	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91304065	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91304245	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+G	BLM	Bloom syndrome	15	91306194	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91306246	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+G	BLM	Bloom syndrome	15	91306328	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91306388	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91308549	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+A	BLM	Bloom syndrome	15	91310204	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+G	BLM	Bloom syndrome	15	91312361	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+A	BLM	Bloom syndrome	15	91312667	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91312817	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+C	BLM	Bloom syndrome	15	91326160	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+G	BLM	Bloom syndrome	15	91328149	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91328183	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91328309	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91333877	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+C	BLM	Bloom syndrome	15	91333878	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91333930	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+C	BLM	Bloom syndrome	15	91337541	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91346792	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91346807	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91346831	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91346951	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+A	BLM	Bloom syndrome	15	91347396	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+C	BLM	Bloom syndrome	15	91347589	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91352462	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+A	BLM	Bloom syndrome	15	91352470	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+C	BLM	Bloom syndrome	15	91352491	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+G	BLM	Bloom syndrome	15	91354433	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+T	BLM	Bloom syndrome	15	91354497	https://ghr.nlm.nih.gov/condition/bloom-syndrome
+A	CFTR	Cystic Fibrosis	7	117119984	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117120149	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117120150	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117120152	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117120159	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117120162	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117120167	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117120202	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117144309	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117144310	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117144332	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117144367	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117144368	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117144390	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117144401	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117144418	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117144418	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117144418	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117149085	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117149087	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117149089	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117149093	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117149094	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117149101	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117149123	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117149143	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117149146	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117149147	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117149177	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117149186	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117149186	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117149196	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117149197	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117149199	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117170951	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117170952	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117170952	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117170953	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117170953	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117170971	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117170972	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117171006	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117171007	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117171007	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117171009	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117171028	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117171029	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117171034	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117171045	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117171049	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117171124	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117171133	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117171155	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117171169	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117171170	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117171171	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117174329	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117174349	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117174372	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117174411	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117174415	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117174417	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117174420	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117174422	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117174424	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117175301	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117175314	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117175317	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117175335	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117175339	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117175369	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117175372	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117175380	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117175402	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117175417	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117175466	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117175466	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117176600	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117176630	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117176683	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117176686	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117176693	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117176704	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117176723	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117176730	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117180152	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117180153	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117180272	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117180281	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117180284	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117180285	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117180285	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117180291	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117180297	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117180305	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117180324	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117180324	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117180330	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117180338	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117180339	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117180401	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117182068	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117182069	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117182088	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117182155	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117182156	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117182163	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117182163	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117188684	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117188704	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117188725	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117188786	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117188812	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117188849	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117188852	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117199516	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117199517	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117199522	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117199522	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117199525	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117199563	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117199591	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117199600	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117199602	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117199612	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117199644	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117199648	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117199683	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117199683	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117199697	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117199698	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117199710	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117227785	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117227791	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117227792	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117227832	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117227853	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117227854	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117227855	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117227855	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117227856	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117227859	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117227860	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117227862	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117227865	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117227866	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117227881	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117227883	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117227887	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117227887	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117227888	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117227888	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117229521	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117229524	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117229530	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117230406	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117230406	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117230407	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117230409	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117230411	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117230414	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117230430	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117230432	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117230448	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117230454	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117230480	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117230494	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117230494	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117230494	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117230495	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117230495	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117230496	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117230498	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117231987	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117232047	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117232047	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117232062	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117232074	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117232086	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117232211	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117232238	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117232257	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117232274	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117232346	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117232349	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117232364	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117232416	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117232470	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117232473	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117232511	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117232574	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117232595	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117232616	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117232685	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117232712	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117232713	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117234982	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117234984	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117234999	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117235030	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117235031	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117235040	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117235044	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117235113	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117242878	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117242905	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117242922	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117243584	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117243585	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117243596	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117243663	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117243667	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117243696	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117243708	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117243741	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117243762	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117243784	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117243828	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117243836	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117243837	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117246713	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117246728	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117246751	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117246755	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117246758	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117246807	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117246808	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117246808	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117250571	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117250572	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117250575	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117250598	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117250622	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117250679	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117250687	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117250708	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117251609	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117251634	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117251649	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117251655	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117251676	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117251689	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117251691	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117251692	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117251694	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117251700	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117251703	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117251704	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117251717	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117251725	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117251749	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117251761	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117251771	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117251771	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117251788	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117251789	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117251794	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117251797	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117251797	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117251799	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117251805	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117254665	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117254665	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117254734	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117254753	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117254767	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117254768	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117254772	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117267556	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117267579	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117267591	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117267636	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117267640	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117267694	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117267718	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117267719	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117267724	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117267766	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117267807	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117267819	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117267824	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117267828	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117267829	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117267864	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117280015	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117282489	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117282491	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117282505	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117282526	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117282535	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117282537	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117282538	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117282582	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117282615	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117282620	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117282647	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117282648	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117282648	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117282649	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117292894	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117292931	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117292944	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117292951	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117292959	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117292986	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117292987	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117304766	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117304775	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117304782	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117304824	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117304834	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117304834	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117304889	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117305519	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117305520	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117305607	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117305610	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117305619	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117305619	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117305620	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117306960	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117306971	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117306991	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117306991	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+C	CFTR	Cystic Fibrosis	7	117306999	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117307016	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117307076	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+A	CFTR	Cystic Fibrosis	7	117307083	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+G	CFTR	Cystic Fibrosis	7	117307083	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117307145	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CFTR	Cystic Fibrosis	7	117315915	https://ghr.nlm.nih.gov/condition/cystic-fibrosis
+T	CLN3	Neuronal ceroid lipofuscinosis	16	28488941	https://ghr.nlm.nih.gov/condition/cln3-disease
+T	CLN3	Neuronal ceroid lipofuscinosis	16	28488957	https://ghr.nlm.nih.gov/condition/cln3-disease
+T	CLN3	Neuronal ceroid lipofuscinosis	16	28489060	https://ghr.nlm.nih.gov/condition/cln3-disease
+G	CLN3	Neuronal ceroid lipofuscinosis	16	28489139	https://ghr.nlm.nih.gov/condition/cln3-disease
+A	CLN3	Neuronal ceroid lipofuscinosis	16	28489196	https://ghr.nlm.nih.gov/condition/cln3-disease
+T	CLN3	Neuronal ceroid lipofuscinosis	16	28493428	https://ghr.nlm.nih.gov/condition/cln3-disease
+A	CLN3	Neuronal ceroid lipofuscinosis	16	28493478	https://ghr.nlm.nih.gov/condition/cln3-disease
+A	CLN3	Neuronal ceroid lipofuscinosis	16	28493481	https://ghr.nlm.nih.gov/condition/cln3-disease
+T	CLN3	Neuronal ceroid lipofuscinosis	16	28493482	https://ghr.nlm.nih.gov/condition/cln3-disease
+A	CLN3	Neuronal ceroid lipofuscinosis	16	28493494	https://ghr.nlm.nih.gov/condition/cln3-disease
+A	CLN3	Neuronal ceroid lipofuscinosis	16	28493520	https://ghr.nlm.nih.gov/condition/cln3-disease
+C	CLN3	Neuronal ceroid lipofuscinosis	16	28493521	https://ghr.nlm.nih.gov/condition/cln3-disease
+T	CLN3	Neuronal ceroid lipofuscinosis	16	28493645	https://ghr.nlm.nih.gov/condition/cln3-disease
+A	CLN3	Neuronal ceroid lipofuscinosis	16	28493647	https://ghr.nlm.nih.gov/condition/cln3-disease
+T	CLN3	Neuronal ceroid lipofuscinosis	16	28493661	https://ghr.nlm.nih.gov/condition/cln3-disease
+A	CLN3	Neuronal ceroid lipofuscinosis	16	28493796	https://ghr.nlm.nih.gov/condition/cln3-disease
+T	CLN3	Neuronal ceroid lipofuscinosis	16	28493821	https://ghr.nlm.nih.gov/condition/cln3-disease
+G	CLN3	Neuronal ceroid lipofuscinosis	16	28493851	https://ghr.nlm.nih.gov/condition/cln3-disease
+A	CLN3	Neuronal ceroid lipofuscinosis	16	28493942	https://ghr.nlm.nih.gov/condition/cln3-disease
+A	CLN3	Neuronal ceroid lipofuscinosis	16	28493994	https://ghr.nlm.nih.gov/condition/cln3-disease
+C	CLN3	Neuronal ceroid lipofuscinosis	16	28495324	https://ghr.nlm.nih.gov/condition/cln3-disease
+T	CLN3	Neuronal ceroid lipofuscinosis	16	28495333	https://ghr.nlm.nih.gov/condition/cln3-disease
+T	CLN3	Neuronal ceroid lipofuscinosis	16	28497667	https://ghr.nlm.nih.gov/condition/cln3-disease
+A	CLN3	Neuronal ceroid lipofuscinosis	16	28497748	https://ghr.nlm.nih.gov/condition/cln3-disease
+T	CLN3	Neuronal ceroid lipofuscinosis	16	28497763	https://ghr.nlm.nih.gov/condition/cln3-disease
+C	CLN3	Neuronal ceroid lipofuscinosis	16	28497898	https://ghr.nlm.nih.gov/condition/cln3-disease
+C	CLN3	Neuronal ceroid lipofuscinosis	16	28499064	https://ghr.nlm.nih.gov/condition/cln3-disease
+A	CLN3	Neuronal ceroid lipofuscinosis	16	28499984	https://ghr.nlm.nih.gov/condition/cln3-disease
+A	CLN3	Neuronal ceroid lipofuscinosis	16	28502882	https://ghr.nlm.nih.gov/condition/cln3-disease
+C	CLN3	Neuronal ceroid lipofuscinosis	16	28503034	https://ghr.nlm.nih.gov/condition/cln3-disease
+A	CLN3	Neuronal ceroid lipofuscinosis	16	28503034	https://ghr.nlm.nih.gov/condition/cln3-disease
+C	CLN3	Neuronal ceroid lipofuscinosis	16	28503079	https://ghr.nlm.nih.gov/condition/cln3-disease
+G	CLN3	Neuronal ceroid lipofuscinosis	16	28503080	https://ghr.nlm.nih.gov/condition/cln3-disease
+T	CLRN1	Usher syndrome, type 3A	3	150645803	https://ghr.nlm.nih.gov/condition/usher-syndrome
+T	CLRN1	Usher syndrome, type 3A	3	150645881	https://ghr.nlm.nih.gov/condition/usher-syndrome
+G	CLRN1	Usher syndrome, type 3A	3	150645894	https://ghr.nlm.nih.gov/condition/usher-syndrome
+A	CLRN1	Usher syndrome, type 3A	3	150659434	https://ghr.nlm.nih.gov/condition/usher-syndrome
+A	CLRN1	Usher syndrome, type 3A	3	150690307	https://ghr.nlm.nih.gov/condition/usher-syndrome
+T	CLRN1	Usher syndrome, type 3A	3	150690312	https://ghr.nlm.nih.gov/condition/usher-syndrome
+G	CLRN1	Usher syndrome, type 3A	3	150690352	https://ghr.nlm.nih.gov/condition/usher-syndrome
+A	CLRN1	Usher syndrome, type 3A	3	150690369	https://ghr.nlm.nih.gov/condition/usher-syndrome
+G	CLRN1	Usher syndrome, type 3A	3	150690378	https://ghr.nlm.nih.gov/condition/usher-syndrome
+T	CLRN1	Usher syndrome, type 3A	3	150690456	https://ghr.nlm.nih.gov/condition/usher-syndrome
+T	CLRN1	Usher syndrome, type 3A	3	150690483	https://ghr.nlm.nih.gov/condition/usher-syndrome
+A	CLRN1	Usher syndrome, type 3A	3	150690493	https://ghr.nlm.nih.gov/condition/usher-syndrome
+C	CLRN1	Usher syndrome, type 3A	3	150690494	https://ghr.nlm.nih.gov/condition/usher-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71146423	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+C	DHCR7	Smith-Lemli-Opitz syndrome	11	71146423	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71146440	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71146453	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+C	DHCR7	Smith-Lemli-Opitz syndrome	11	71146465	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71146507	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71146512	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71146521	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71146522	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71146621	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+C	DHCR7	Smith-Lemli-Opitz syndrome	11	71146627	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71146639	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71146650	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71146659	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71146703	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71146710	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+C	DHCR7	Smith-Lemli-Opitz syndrome	11	71146711	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+G	DHCR7	Smith-Lemli-Opitz syndrome	11	71146759	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71146765	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71146794	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71146795	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71146858	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71146868	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71146873	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+C	DHCR7	Smith-Lemli-Opitz syndrome	11	71146879	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71146886	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+C	DHCR7	Smith-Lemli-Opitz syndrome	11	71146886	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+G	DHCR7	Smith-Lemli-Opitz syndrome	11	71148856	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71148857	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71148882	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+G	DHCR7	Smith-Lemli-Opitz syndrome	11	71148906	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71148914	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+G	DHCR7	Smith-Lemli-Opitz syndrome	11	71148915	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71148926	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71148927	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+C	DHCR7	Smith-Lemli-Opitz syndrome	11	71148932	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71148951	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71148955	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71148959	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71148960	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71148963	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71148980	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71149923	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71150016	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71150031	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71150032	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+G	DHCR7	Smith-Lemli-Opitz syndrome	11	71150101	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+C	DHCR7	Smith-Lemli-Opitz syndrome	11	71150101	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71150130	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+C	DHCR7	Smith-Lemli-Opitz syndrome	11	71152272	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71152272	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71152393	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+C	DHCR7	Smith-Lemli-Opitz syndrome	11	71152429	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71152438	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+G	DHCR7	Smith-Lemli-Opitz syndrome	11	71152438	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71152447	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71152459	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71152487	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+G	DHCR7	Smith-Lemli-Opitz syndrome	11	71152488	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71153365	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+C	DHCR7	Smith-Lemli-Opitz syndrome	11	71153395	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+G	DHCR7	Smith-Lemli-Opitz syndrome	11	71153401	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+C	DHCR7	Smith-Lemli-Opitz syndrome	11	71155064	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71155068	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71155082	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71155161	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71155209	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71155249	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+C	DHCR7	Smith-Lemli-Opitz syndrome	11	71155262	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71155908	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+C	DHCR7	Smith-Lemli-Opitz syndrome	11	71155910	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71155917	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+T	DHCR7	Smith-Lemli-Opitz syndrome	11	71155983	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DHCR7	Smith-Lemli-Opitz syndrome	11	71155996	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+G	DHCR7	Smith-Lemli-Opitz syndrome	11	71155998	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
+A	DLD	Maple Syrup Urine Disease	7	107531707	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	DLD	Maple Syrup Urine Disease	7	107531735	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	DLD	Maple Syrup Urine Disease	7	107533710	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	DLD	Maple Syrup Urine Disease	7	107533717	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	DLD	Maple Syrup Urine Disease	7	107533724	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	DLD	Maple Syrup Urine Disease	7	107542225	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	DLD	Maple Syrup Urine Disease	7	107542246	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	DLD	Maple Syrup Urine Disease	7	107542249	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	DLD	Maple Syrup Urine Disease	7	107542263	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	DLD	Maple Syrup Urine Disease	7	107542769	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	DLD	Maple Syrup Urine Disease	7	107543921	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	DLD	Maple Syrup Urine Disease	7	107555951	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	DLD	Maple Syrup Urine Disease	7	107557794	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	DLD	Maple Syrup Urine Disease	7	107557908	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	PCDH15	Usher Syndrome, Type 1F	10	56128954	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	55973788	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+A	PCDH15	Usher Syndrome, Type 1F	10	55955442	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+C	PCDH15	Usher Syndrome, Type 1F	10	55955442	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	56287584	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+C	PCDH15	Usher Syndrome, Type 1F	10	56287571	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	56138704	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+G	PCDH15	Usher Syndrome, Type 1F	10	55912907	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+C	PCDH15	Usher Syndrome, Type 1F	10	55892769	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+G	PCDH15	Usher Syndrome, Type 1F	10	55892746	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	55892637	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+C	PCDH15	Usher Syndrome, Type 1F	10	55892633	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	55849814	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+A	PCDH15	Usher Syndrome, Type 1F	10	55849743	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	55849743	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+G	PCDH15	Usher Syndrome, Type 1F	10	55839186	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+G	PCDH15	Usher Syndrome, Type 1F	10	56424022	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+A	PCDH15	Usher Syndrome, Type 1F	10	55839130	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+C	PCDH15	Usher Syndrome, Type 1F	10	55839089	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+A	PCDH15	Usher Syndrome, Type 1F	10	55780079	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	56138586	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+C	PCDH15	Usher Syndrome, Type 1F	10	55779950	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	55755492	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	55721653	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+A	PCDH15	Usher Syndrome, Type 1F	10	55719490	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+A	PCDH15	Usher Syndrome, Type 1F	10	55700736	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+G	PCDH15	Usher Syndrome, Type 1F	10	55698717	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	55698632	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	55698590	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	55663131	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	55663002	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+G	PCDH15	Usher Syndrome, Type 1F	10	55626619	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+A	PCDH15	Usher Syndrome, Type 1F	10	55626401	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+C	PCDH15	Usher Syndrome, Type 1F	10	55616934	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+C	PCDH15	Usher Syndrome, Type 1F	10	55616933	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+G	PCDH15	Usher Syndrome, Type 1F	10	55600258	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	55600079	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+C	PCDH15	Usher Syndrome, Type 1F	10	55591294	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+G	PCDH15	Usher Syndrome, Type 1F	10	55591295	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+G	PCDH15	Usher Syndrome, Type 1F	10	56128954	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+A	PCDH15	Usher Syndrome, Type 1F	10	55591242	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+A	PCDH15	Usher Syndrome, Type 1F	10	55588324	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+G	PCDH15	Usher Syndrome, Type 1F	10	55588323	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+A	PCDH15	Usher Syndrome, Type 1F	10	55587293	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+A	PCDH15	Usher Syndrome, Type 1F	10	55587152	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+C	PCDH15	Usher Syndrome, Type 1F	10	55587151	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	55583120	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	56106124	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+G	PCDH15	Usher Syndrome, Type 1F	10	56089414	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+A	PCDH15	Usher Syndrome, Type 1F	10	56089355	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	56077174	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+T	PCDH15	Usher Syndrome, Type 1F	10	56424016	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+A	PCDH15	Usher Syndrome, Type 1F	10	56423939	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
+A	PEX1	Zellweger Syndrome	7	92146589	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92146589	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+C	PEX1	Zellweger Syndrome	7	92151560	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92140963	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92140317	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+A	PEX1	Zellweger Syndrome	7	92140257	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+C	PEX1	Zellweger Syndrome	7	92140256	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+A	PEX1	Zellweger Syndrome	7	92138642	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92138642	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92136346	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92135565	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92134196	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+C	PEX1	Zellweger Syndrome	7	92134126	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+C	PEX1	Zellweger Syndrome	7	92157749	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92157749	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+C	PEX1	Zellweger Syndrome	7	92134044	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92132444	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92132405	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92131390	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92131237	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+A	PEX1	Zellweger Syndrome	7	92130876	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92129122	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92129119	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92129050	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+G	PEX1	Zellweger Syndrome	7	92126093	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+A	PEX1	Zellweger Syndrome	7	92151415	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92123852	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+C	PEX1	Zellweger Syndrome	7	92123833	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+A	PEX1	Zellweger Syndrome	7	92123800	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+C	PEX1	Zellweger Syndrome	7	92123799	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+G	PEX1	Zellweger Syndrome	7	92123712	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92123645	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+C	PEX1	Zellweger Syndrome	7	92157748	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+G	PEX1	Zellweger Syndrome	7	92157748	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92122269	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+A	PEX1	Zellweger Syndrome	7	92122265	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+A	PEX1	Zellweger Syndrome	7	92120817	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92120585	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+A	PEX1	Zellweger Syndrome	7	92148318	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92119117	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+A	PEX1	Zellweger Syndrome	7	92148308	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92119090	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92147570	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+C	PEX1	Zellweger Syndrome	7	92147571	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+G	PEX1	Zellweger Syndrome	7	92147571	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+A	PEX1	Zellweger Syndrome	7	92157747	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+A	PEX1	Zellweger Syndrome	7	92147454	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+A	PEX1	Zellweger Syndrome	7	92147357	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+C	PEX1	Zellweger Syndrome	7	92147357	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+T	PEX1	Zellweger Syndrome	7	92147282	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+A	PEX1	Zellweger Syndrome	7	92147260	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+A	PEX1	Zellweger Syndrome	7	92157745	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1448/
+G	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137143923	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+C	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137143934	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+G	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137146350	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+C	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137146410	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+G	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137147455	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+T	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137147545	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+T	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137147602	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+C	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137147609	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+G	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137166758	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+A	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137166770	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+T	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137166786	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+A	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137166813	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+G	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137187763	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+G	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137143863	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+A	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137187856	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+A	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137187872	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+C	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137191035	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+A	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137191043	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+T	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137191047	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+T	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137191088	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+G	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137193334	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+G	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137143884	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+A	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137219351	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+C	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137219380	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+T	PEX7	Rhizomelic Chondrodysplasia Punctata Type 1	6	137234614	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1270/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51609308	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51524750	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51524705	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51524480	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51524260	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51524215	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51947999	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51927340	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51512918	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51512913	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51497504	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51497416	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51497362	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51491794	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51949721	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51923236	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51923175	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51923153	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51923147	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51923128	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51921687	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51920528	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51920391	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51918920	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51949731	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51917873	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51917873	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51915095	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51915042	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51914970	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51914955	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51913356	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51913289	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51910988	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51910942	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51909763	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51908519	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51908434	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51908433	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51944808	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51907933	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51907900	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51907900	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51907776	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51907655	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51900388	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51900388	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51897965	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51893147	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51944748	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51893051	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51892696	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51944718	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51941132	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51890191	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51941072	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51889726	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51889548	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51889371	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51887744	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51948054	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51948055	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51887656	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51882360	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51882356	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51882323	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51882295	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51875106	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51824826	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51824751	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51799117	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51936912	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51935869	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51935870	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51776596	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51774273	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51774264	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51774237	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51935807	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51768842	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51935229	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51768484	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51768481	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51768399	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51935203	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51935202	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51934326	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51934327	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51751956	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51750686	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51747890	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51747238	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51735301	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51934285	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51934268	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51732698	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51712769	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51712770	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51712764	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51712630	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51712612	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51712572	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51656172	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51656173	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51656067	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51656066	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51637589	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+G	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51637589	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51948021	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51929849	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51618125	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51618079	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51617998	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51613118	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51613095	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51613044	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+C	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51612884	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51612768	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51612731	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51612696	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51612695	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51927453	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51611640	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51611616	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+T	PKHD1	Autosomal Recessive Polycystic Kidney Disease	6	51611518	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1326/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8895693	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8895716	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+C	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8895720	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+T	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8895746	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+G	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8895769	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+T	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8898623	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+T	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8898638	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+G	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8891740	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+T	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8898650	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8898701	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+C	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8898702	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+G	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8900171	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8891765	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8891766	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+G	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8900227	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+T	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8900240	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8900254	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+T	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8900255	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8900265	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+C	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8904935	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+C	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8904934	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+C	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8904943	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8904945	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+C	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8904947	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+T	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8904955	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8904973	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+C	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8904983	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8905003	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+T	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8905009	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8905010	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+C	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8905018	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8905020	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8905030	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8905040	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+C	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8905505	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+C	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8905517	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+T	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8905531	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+G	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8906846	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8906851	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+G	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8891792	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8906884	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+G	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8906887	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+T	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8906904	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+C	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8906944	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+C	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8906947	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8906964	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+T	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8926102	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+T	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8941588	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+G	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8941593	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+T	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8895654	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+A	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8941632	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+G	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8941651	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+T	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8941651	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+C	PMM2	Congenital Disorder of Glycosylation Type 1A	16	8941663	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1110/
+G	SMPD1	Niemann-Pick Disease Type A	11	6414531	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type A	11	6414846	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type A	11	6414859	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type A	11	6415125	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type A	11	6415125	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type A	11	6415215	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+G	SMPD1	Niemann-Pick Disease Type A	11	6415432	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+G	SMPD1	Niemann-Pick Disease Type A	11	6415459	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+C	SMPD1	Niemann-Pick Disease Type A	11	6415544	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type A	11	6415568	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type A	11	6415606	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type A	11	6411996	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type A	11	6415689	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type A	11	6415746	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type A	11	6412027	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type A	11	6412069	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type A	11	6411856	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+C	SMPD1	Niemann-Pick Disease Type A	11	6412142	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type A	11	6412148	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+C	SMPD1	Niemann-Pick Disease Type A	11	6412148	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type A	11	6412823	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type A	11	6411880	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type A	11	6411889	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type A	11	6412983	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type A	11	6413025	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+C	SMPD1	Niemann-Pick Disease Type A	11	6413043	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type A	11	6413045	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type A	11	6413073	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type A	11	6411923	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type A	11	6411924	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type B	11	6414471	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+G	SMPD1	Niemann-Pick Disease Type B	11	6414882	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type B	11	6415434	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type B	11	6413025	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type B	11	6413037	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+C	SMPD1	Niemann-Pick Disease Type B	11	6414445	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type B	11	6414506	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type B	11	6415433	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type B	11	6415565	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+C	SMPD1	Niemann-Pick Disease Type B	11	6412770	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type B	11	6412804	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type B	11	6412852	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	SMPD1	Niemann-Pick Disease Type B	11	6413175	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type B	11	6414910	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+C	SMPD1	Niemann-Pick Disease Type B	11	6413052	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type B	11	6414850	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type B	11	6415211	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+C	SMPD1	Niemann-Pick Disease Type B	11	6413206	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+T	SMPD1	Niemann-Pick Disease Type B	11	6415434	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1370/
+A	TMEM216	Joubert Syndrome 2 / Meckel Syndrome Type 2	11	61161355	https://www.omim.org/entry/608091
+C	TMEM216	Joubert Syndrome 2 / Meckel Syndrome Type 2	11	61161435	https://www.omim.org/entry/608091
+T	TMEM216	Joubert Syndrome 2 / Meckel Syndrome Type 2	11	61161437	https://www.omim.org/entry/608091
+T	TMEM216	Joubert Syndrome 2 / Meckel Syndrome Type 2	11	61165269	https://www.omim.org/entry/608091
+A	TMEM216	Joubert Syndrome 2 / Meckel Syndrome Type 2	11	61165352	https://www.omim.org/entry/608091
+C	TMEM216	Joubert Syndrome 2 / Meckel Syndrome Type 2	11	61160139	https://www.omim.org/entry/608091
+G	TMEM216	Joubert Syndrome 2 / Meckel Syndrome Type 2	11	61160701	https://www.omim.org/entry/608091
+G	TMEM216	Joubert Syndrome 2 / Meckel Syndrome Type 2	11	61165414	https://www.omim.org/entry/608091
