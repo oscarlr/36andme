@@ -1291,20 +1291,20 @@ T	DHCR7	Smith-Lemli-Opitz syndrome	11	71155917	https://ghr.nlm.nih.gov/condition
 T	DHCR7	Smith-Lemli-Opitz syndrome	11	71155983	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
 A	DHCR7	Smith-Lemli-Opitz syndrome	11	71155996	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
 G	DHCR7	Smith-Lemli-Opitz syndrome	11	71155998	https://ghr.nlm.nih.gov/condition/smith-lemli-opitz-syndrome
-A	DLD	Maple Syrup Urine Disease	7	107531707	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
-A	DLD	Maple Syrup Urine Disease	7	107531735	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
-G	DLD	Maple Syrup Urine Disease	7	107533710	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
-T	DLD	Maple Syrup Urine Disease	7	107533717	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
-T	DLD	Maple Syrup Urine Disease	7	107533724	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
-G	DLD	Maple Syrup Urine Disease	7	107542225	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
-T	DLD	Maple Syrup Urine Disease	7	107542246	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
-G	DLD	Maple Syrup Urine Disease	7	107542249	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
-A	DLD	Maple Syrup Urine Disease	7	107542263	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
-A	DLD	Maple Syrup Urine Disease	7	107542769	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
-G	DLD	Maple Syrup Urine Disease	7	107543921	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
-T	DLD	Maple Syrup Urine Disease	7	107555951	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
-A	DLD	Maple Syrup Urine Disease	7	107557794	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
-T	DLD	Maple Syrup Urine Disease	7	107557908	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple Syrup Urine Disease	7	107531707	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple Syrup Urine Disease	7	107531735	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHA	Maple Syrup Urine Disease	7	107533710	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple Syrup Urine Disease	7	107533717	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple Syrup Urine Disease	7	107533724	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHA	Maple Syrup Urine Disease	7	107542225	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple Syrup Urine Disease	7	107542246	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHA	Maple Syrup Urine Disease	7	107542249	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple Syrup Urine Disease	7	107542263	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple Syrup Urine Disease	7	107542769	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+G	BCKDHA	Maple Syrup Urine Disease	7	107543921	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple Syrup Urine Disease	7	107555951	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+A	BCKDHA	Maple Syrup Urine Disease	7	107557794	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
+T	BCKDHA	Maple Syrup Urine Disease	7	107557908	https://ghr.nlm.nih.gov/condition/maple-syrup-urine-disease
 T	PCDH15	Usher Syndrome, Type 1F	10	56128954	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
 T	PCDH15	Usher Syndrome, Type 1F	10	55973788	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
 A	PCDH15	Usher Syndrome, Type 1F	10	55955442	https://www-ncbi-nlm-nih-gov.eresources.mssm.edu/books/NBK1265/
